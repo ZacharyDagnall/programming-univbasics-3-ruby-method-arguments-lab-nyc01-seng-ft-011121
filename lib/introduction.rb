@@ -15,7 +15,7 @@ def introduction_with_language_optional(name, language="Ruby")
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-
+#Why do these tests work with the puts method but not with the print method?? They should be the same but for an extra \n in puts (which isn't necessary here?)
 
 
 
